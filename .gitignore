@@ -1,6 +1,7 @@
 development/
 
 # common
+~$*.xlsx
 **.jpg
 **.png
 **.pdb
